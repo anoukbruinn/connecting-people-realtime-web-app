@@ -1,7 +1,8 @@
 > _Fork_ deze leertaak en ga aan de slag. Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
-# Titel
-<!-- Geef je project een titel en schrijf in één zin wat het is -->
+
+
+# Plantchat
 
 ## Inhoudsopgave
 
@@ -31,7 +32,7 @@ Hieronder zie je hoe het eruit ziet als er op de knop is gedrukt. (dit is de mob
 ## Gebruik
 <!-- Bij Gebruik staat de user story, hoe het werkt en wat je er mee kan. -->
 
-De userstorie van deze opdracht: de userstorie die ik heb hiervoor is. 
+De userstorie van deze opdracht: de userstorie die ik heb hiervoor heb is. 
 
 Ik wil een chat kunnen versturen via een pop up op de website. 
 
@@ -88,7 +89,7 @@ ioServer.on('message', (message) => {
 ## Installatie
 <!-- Bij Instalatie staat hoe een andere developer aan jouw repo kan werken -->
 
-
+Ik heb deze chat gemaakt in een andere website. Deze staat ook in een andere repo. In deze repo heb ik gewerkt met branches. via pull requests kan diegene dan verder. 
 
 ## Bronnen
 
